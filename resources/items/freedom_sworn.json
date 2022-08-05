@@ -1,0 +1,12 @@
+{
+    "format_version": "1.16",
+    "minecraft:item": {
+      "description": {
+        "identifier": "emergency_food:freedom_sworn",
+        "category": "Item"
+      },
+      "components": {
+        "minecraft:icon": "freedom_sworn"
+      }
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "juice": {
+            "textures": "textures/items/juice"
+        },
+        "paimeng": {
+            "textures": "textures/items/paimeng"
+        },
+        "freedom_sworn": {
+            "textures": "textures/items/freedom_sworn"
+        }
+    }
+}

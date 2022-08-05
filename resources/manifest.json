@@ -1,0 +1,26 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "EmergencyFood Resource Pack",
+        "name": "EmergencyFood",
+        "uuid": "06728516-3464-4ec3-aefa-1216f4c339ec",
+        "version": [
+            0, 0, 1
+        ],
+        "min_engine_version": [
+            1,
+            8,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "EmergencyFood Resource Pack",
+            "type": "resources",
+            "uuid": "0a11c293-0691-482f-bf25-ad6515ffeb54",
+            "version": [
+                1, 0, 0
+            ]
+        }
+    ]
+}
